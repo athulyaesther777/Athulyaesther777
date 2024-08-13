@@ -1,6 +1,6 @@
 ### Hey, Welcome to My GitHub! 👋
 
-I'm **Athulya B Vijay**, a Junior Software Engineer with a strong focus on Data Science, Python development, and AI. I thrive on creating innovative solutions that make a difference, particularly in the healthcare sector. My GitHub showcases a collection of projects that reflect my skills and interests.
+I'm **Athulya**, a Junior Software Engineer with a strong focus on Data Science, Python development, and AI. I thrive on creating innovative solutions that make a difference, particularly in the healthcare sector. My GitHub showcases a collection of projects that reflect my skills and interests.
 
 - 🔭 **Currently Working On:** AI-powered healthcare chatbot, data science projects, and web applications.
 - 🌱 **Learning:** Advanced Python, Data Science techniques, and Machine Learning algorithms.
